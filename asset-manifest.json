@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mywebsite/static/css/main.95807826.chunk.css",
+    "main.js": "/mywebsite/static/js/main.63bb73cf.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.63bb73cf.chunk.js.map",
+    "runtime-main.js": "/mywebsite/static/js/runtime-main.7d75bad7.js",
+    "runtime-main.js.map": "/mywebsite/static/js/runtime-main.7d75bad7.js.map",
+    "static/css/2.818011ed.chunk.css": "/mywebsite/static/css/2.818011ed.chunk.css",
+    "static/js/2.0d540e5e.chunk.js": "/mywebsite/static/js/2.0d540e5e.chunk.js",
+    "static/js/2.0d540e5e.chunk.js.map": "/mywebsite/static/js/2.0d540e5e.chunk.js.map",
+    "index.html": "/mywebsite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/mywebsite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.95807826.chunk.css.map": "/mywebsite/static/css/main.95807826.chunk.css.map",
+    "static/js/2.0d540e5e.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.0d540e5e.chunk.js.LICENSE.txt",
+    "static/media/3046-me-at-office.54bd6d97.gif": "/mywebsite/static/media/3046-me-at-office.54bd6d97.gif",
+    "static/media/About.605b45a2.gif": "/mywebsite/static/media/About.605b45a2.gif",
+    "static/media/austin-distel.cbdfbac3.jpg": "/mywebsite/static/media/austin-distel.cbdfbac3.jpg",
+    "static/media/farzad-nazifi.17d4dcd5.jpg": "/mywebsite/static/media/farzad-nazifi.17d4dcd5.jpg",
+    "static/media/firmbee.791ff90a.jpg": "/mywebsite/static/media/firmbee.791ff90a.jpg",
+    "static/media/joshua-aragon.60867e30.jpg": "/mywebsite/static/media/joshua-aragon.60867e30.jpg",
+    "static/media/lee-campbell.7345da58.jpg": "/mywebsite/static/media/lee-campbell.7345da58.jpg",
+    "static/media/nordwood-themes.0dcd4354.jpg": "/mywebsite/static/media/nordwood-themes.0dcd4354.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d75bad7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.0d540e5e.chunk.js",
+    "static/css/main.95807826.chunk.css",
+    "static/js/main.63bb73cf.chunk.js"
+  ]
+}
