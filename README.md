@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `Link`
-https://harshvadadoriya.github.io/
+https://harshvadadoriya.github.io/mywebsite
 
 ## Available Scripts
 
